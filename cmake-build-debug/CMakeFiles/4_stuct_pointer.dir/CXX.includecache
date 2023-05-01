@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aochenwen/Desktop/计算机基础笔记/WD_/WD_ZHONGJI/4_stuct_pointer.cpp
+stdio.h
+-
+

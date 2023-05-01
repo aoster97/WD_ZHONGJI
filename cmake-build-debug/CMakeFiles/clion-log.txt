@@ -1,0 +1,23 @@
+/usr/local/Cellar/cmake/3.26.3/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/aochenwen/Desktop/计算机基础笔记/WD_/WD_ZHONGJI
+-- The CXX compiler identification is AppleClang 14.0.0.14000029
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+Working Directory: /Users/aochenwen/Desktop/计算机基础笔记/WD_/WD_ZHONGJI
+1_Sequenatial_list.cpp
+add_executable(1_Sequenatial_list 1_Sequenatial_list.cpp)
+2_Dynamic_Sequenatial_list.cpp
+add_executable(2_Dynamic_Sequenatial_list 2_Dynamic_Sequenatial_list.cpp)
+3_SL_self_repeat.cpp
+add_executable(3_SL_self_repeat 3_SL_self_repeat.cpp)
+4_stuct_pointer.cpp
+add_executable(4_stuct_pointer 4_stuct_pointer.cpp)
+5_Link_List.cpp
+add_executable(5_Link_List 5_Link_List.cpp)
+6_LinkList_self_repeat.cpp
+add_executable(6_LinkList_self_repeat 6_LinkList_self_repeat.cpp)
+-- Configuring done (0.5s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/aochenwen/Desktop/计算机基础笔记/WD_/WD_ZHONGJI/cmake-build-debug
